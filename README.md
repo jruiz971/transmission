@@ -7,8 +7,10 @@
 2020/05/11
 
 Author: Victor De la Luz
-
 email: vdelaluz@enesmorelia.unam.mx
+
+Colaborator: Juan Luis Ruiz Vanegas
+email: juanluisruiz971@gmail.com
 
 License: GNU/GPL
 
